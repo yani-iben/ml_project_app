@@ -1,0 +1,13 @@
+dash
+dash-bootstrap-components
+dash-table
+plotly
+pandas
+numpy
+scikit-learn
+statsmodels
+gunicorn
+streamlit
+fiona
+shapely
+pyproj
