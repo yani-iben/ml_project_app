@@ -12,7 +12,6 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 import statsmodels.stats.multicomp as mc
 import json
-import geopandas as gpd # Needed if you uncomment the map/geo analysis sections
 import os
 
 # --- 1. CONFIGURATION AND CACHING ---
